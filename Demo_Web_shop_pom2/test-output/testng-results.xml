@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47268" started-at="2021-12-16T04:31:49Z" finished-at="2021-12-16T04:32:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="47268" started-at="2021-12-16T04:31:49Z" finished-at="2021-12-16T04:32:37Z">
+      <class name="com.test.Quantity_Tc011">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.test.Quantity_Tc011@4b553d26]" name="Setup" is-config="true" duration-ms="16950" started-at="2021-12-16T04:31:49Z" finished-at="2021-12-16T04:32:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="test(java.lang.String)[pri:0, instance:com.test.Quantity_Tc011@4b553d26]" name="test" duration-ms="25327" started-at="2021-12-16T04:32:11Z" data-provider="testdata" finished-at="2021-12-16T04:32:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.test.Quantity_Tc011 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
